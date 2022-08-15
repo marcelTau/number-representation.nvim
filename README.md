@@ -1,6 +1,6 @@
 # number-representation.nvim
 
-This simple plugin lets you get the binary decimal and hexadecimal representation of the number under the cursor.
+This simple plugin lets you get the binary, decimal and hexadecimal representation of the number under the cursor.
 
 ## Install
 via [vim-plug](https://github.com/junegunn/vim-plug)
