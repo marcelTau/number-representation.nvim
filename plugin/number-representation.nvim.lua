@@ -1,3 +1,11 @@
+if vim.g.loaded_number_represenation then
+    return
+end
+
+vim.g.loaded_number_representation = 1
+
+----- plugin code -----
+
 local M = {}
 
 local function removeLeadingUnderscore(str)
